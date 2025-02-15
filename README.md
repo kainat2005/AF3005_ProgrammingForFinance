@@ -1,6 +1,6 @@
 # AF3005_ProgrammingForFinance
 
-# AF3005 - Smart Financial Management System
+# Smart Financial Management System
 
 This repository contains the implementation of the **Smart Financial Management System** as part of the AF3005 - Programming for Finance course assignment. The project utilizes `ipywidgets` to create an interactive financial tracking system that processes stock prices, skips missing data, and stops tracking when a target price is reached.
 
